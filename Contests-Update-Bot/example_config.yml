@@ -1,0 +1,23 @@
+# example_config.yml file
+
+mysql:
+  database: practice
+  user: root # user for accessing MySQL DB
+  pass: secret # pass for accessing MySQL DB
+  tables:
+    - servers
+    - channels
+    - users
+bot:
+  token: secret # retrive token from Discord Developer Portal https://discord.com/developers/applications/
+  debug: true # set to false for production
+  id: id # The bot's Discord ID
+  owner_id: id # your Discord ID
+  prefix: $
+cats:
+  token: secret # retrive token from cat API https://thecatapi.com/signup
+jdoodle:
+  client_id: secret # retrive token from JDoodle API https://www.jdoodle.com/compiler-api/
+  client_secret: secret
+# dbl:
+#   dbl_site_name: secret # token for DBL, optional if in development or bot is not on DBL https://botblock.org/api/docs#count
