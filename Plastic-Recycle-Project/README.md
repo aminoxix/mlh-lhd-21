@@ -2,7 +2,8 @@
 
 _One of our favorite hacks to see built are ones that help the planet. We think these projects are common to see at hackathons because they’re genuinely useful for the world. Create one of these - it could be an application that helps folks understand how to recycle their plastics, or even a prototype for a reusable item that will replace a single-use one._
 
-Our team has made a website, so that ppl get aware with the facts & R's fact plastics
+Our team has made a website, so that ppl get aware with the facts & R's fact plastics.
+
 Member: Sakshi Bhullar
 
 ![14707773-reuse-reduce-recycle-poster-design-include-reuse-symbol-image-seamless-reuse-paper-texture-in-swatch](https://user-images.githubusercontent.com/75872316/112932681-f5ed4e00-913b-11eb-809f-c827daae0d3e.jpg)
