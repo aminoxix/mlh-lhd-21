@@ -1,5 +1,8 @@
 # Provides Automation Environment
 
+![Coding-Culture-Online-Shop](https://user-images.githubusercontent.com/75872316/112931064-0bad4400-9139-11eb-9763-daa84efe22a6.jpg)
+
+
 It automates the updates of competition among students & provides the code culture. Basially, its time effective bot, students didn't need to spend more time on "scrolling" & searching for contests. By setup, they can get easily information about upcoming competition contests.
 
 This is based on **ML** (Machine-Learning) & **AI** (Artificial Intelligence) features, comprises with any coding platform like "CodeChef", "CodeForces", & more..
