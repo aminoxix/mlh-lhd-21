@@ -5,7 +5,7 @@
 Spotify Redesign
 </h1>
 
-<p align="center">Alternative design to Spotify for training</p>
+<p align="center">Alternative design to Spotify for hacks</p>
 
 _Ever been frustrated with how an app was laid out? We want you to pick any mobile app and imagine a new layout for it. You can simply draw it out, wireframe it, or even write the code if you’d like._
 
