@@ -1,5 +1,5 @@
 # Music Visualizer
-Pretending Frequency of Music
+**Pretending Frequency of Music**
 
 _You might listen to music while hacking, but have you built anything to elevate your music listening experience? Try building a project that visualizes the music you’re listening_
 
