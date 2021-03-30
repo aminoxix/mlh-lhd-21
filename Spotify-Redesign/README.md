@@ -23,11 +23,10 @@ _Ever been frustrated with how an app was laid out? We want you to pick any mobi
 
 ## IMAGES
 
-<div align="center" style="display: flex; justify-content: space-between;">
-  ![image1](https://user-images.githubusercontent.com/75872316/112998063-4d66da80-918b-11eb-80bc-d428f2d3ccb0.png)
+![image1](https://user-images.githubusercontent.com/75872316/112998063-4d66da80-918b-11eb-80bc-d428f2d3ccb0.png)
   <img src="./screen2.png" alt="Screen 2" width="200">
   <img src="./screen3.png" alt="Screen 3" width="200">
-</div>
+
 
 ## LICENSE
 
