@@ -1,0 +1,6 @@
+/Users/adam/Desktop/ExchangeRateCSharp/ExchangeRateCSharp/bin/Debug/ExchangeRateCSharp.exe
+/Users/adam/Desktop/ExchangeRateCSharp/ExchangeRateCSharp/bin/Debug/ExchangeRateCSharp.pdb
+/Users/adam/Desktop/ExchangeRateCSharp/ExchangeRateCSharp/obj/Debug/ExchangeRateCSharp.csprojAssemblyReference.cache
+/Users/adam/Desktop/ExchangeRateCSharp/ExchangeRateCSharp/obj/Debug/ExchangeRateCSharp.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/ExchangeRateCSharp/ExchangeRateCSharp/obj/Debug/ExchangeRateCSharp.exe
+/Users/adam/Desktop/ExchangeRateCSharp/ExchangeRateCSharp/obj/Debug/ExchangeRateCSharp.pdb
