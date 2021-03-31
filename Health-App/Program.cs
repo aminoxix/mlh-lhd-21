@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace health_app
 {
@@ -6,12 +6,12 @@ namespace health_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Have you cuddled a BLAHAJ in the past week?");
+            Console.WriteLine("Have you cuddled Developer Student Community in the past week?");
             if(Console.ReadLine().ToLower()[0] == 'y'){
-                Console.WriteLine("You are being VERY healthy!");
+                Console.WriteLine("Developer Student Community makes you healthy!");
             }
             else{
-                Console.WriteLine("You are being EXTREMELY unhealthy!");
+                Console.WriteLine("Don't go with any other community, you're unhealthy!");
             }
         }
     }
