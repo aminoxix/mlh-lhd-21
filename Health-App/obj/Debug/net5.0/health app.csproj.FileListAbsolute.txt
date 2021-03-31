@@ -1,0 +1,15 @@
+/Users/adam/Desktop/health app/bin/Debug/net5.0/health app.deps.json
+/Users/adam/Desktop/health app/bin/Debug/net5.0/health app.runtimeconfig.json
+/Users/adam/Desktop/health app/bin/Debug/net5.0/health app.runtimeconfig.dev.json
+/Users/adam/Desktop/health app/bin/Debug/net5.0/health app.dll
+/Users/adam/Desktop/health app/bin/Debug/net5.0/ref/health app.dll
+/Users/adam/Desktop/health app/bin/Debug/net5.0/health app.pdb
+/Users/adam/Desktop/health app/obj/Debug/net5.0/health app.csprojAssemblyReference.cache
+/Users/adam/Desktop/health app/obj/Debug/net5.0/health app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adam/Desktop/health app/obj/Debug/net5.0/health app.AssemblyInfoInputs.cache
+/Users/adam/Desktop/health app/obj/Debug/net5.0/health app.AssemblyInfo.cs
+/Users/adam/Desktop/health app/obj/Debug/net5.0/health app.csproj.CoreCompileInputs.cache
+/Users/adam/Desktop/health app/obj/Debug/net5.0/health app.dll
+/Users/adam/Desktop/health app/obj/Debug/net5.0/ref/health app.dll
+/Users/adam/Desktop/health app/obj/Debug/net5.0/health app.pdb
+/Users/adam/Desktop/health app/obj/Debug/net5.0/health app.genruntimeconfig.cache
