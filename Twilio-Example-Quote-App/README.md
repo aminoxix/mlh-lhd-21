@@ -1,8 +1,10 @@
-# Wake up to a dose of inspirational quotes every morning using Sendgrid/Twilio SMS and Quote APIs
+# Twilio Example Quote App
+
+### Wake up to a dose of inspirational quotes every morning using Sendgrid/Twilio SMS and Quote APIs
 
 Introducing the topic and giving some background info. 
 
-## Prerequisites
+#### Prerequisites
 
 ```
 - Twilio Account
