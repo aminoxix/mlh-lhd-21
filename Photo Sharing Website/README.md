@@ -1,4 +1,4 @@
-# Photo-sharing website
+# Photo-sharing Website
 
 Static pre-rendered photo-sharing website to share publicly your pictures without needing to run or maintain servers.
 
