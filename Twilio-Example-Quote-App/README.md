@@ -4,8 +4,6 @@ Introducing the topic and giving some background info.
 
 ## Prerequisites
 
-What you need to follow the tutorial.
-
 ```
 - Twilio Account
 - Sendgrid Account
@@ -13,7 +11,7 @@ What you need to follow the tutorial.
 - Composer globally installed
 ```
 
-## Setting up a development environment
+#### Setting up a development environment
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 * Install Laravel
@@ -21,15 +19,15 @@ These instructions will get you a copy of the project up and running on your loc
 * Set Sendgrid environment
 * Purchasing an SMS enabled Twilio phone number
 
-## Creating a Quote API endpoint ( Forismatic and favqs APIs)
+#### Creating a Quote API endpoint ( Forismatic and favqs APIs)
 
   * Use the two APIs Forismatic and Favqs to get quotes.
   
-## Sending Quote(s) through email using Sendgrid.
+#### Sending Quote(s) through email using Sendgrid.
 
-## Sending SMS through Twilio SMS
+#### Sending SMS through Twilio SMS
 
-## Testing our App
+#### Testing our App
 
-##  Conclusion
+####  DONE!
 
