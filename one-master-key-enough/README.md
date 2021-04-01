@@ -1,6 +1,4 @@
 # ONE MASTER KEY GAME
-======================
-
 One button to all games.
 
 [REFREV](https://abagames.github.io/one-button-for-all/refrev/index.html)
