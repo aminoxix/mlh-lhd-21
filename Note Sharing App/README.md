@@ -28,4 +28,4 @@ Using this app you can save your own app and then share it with others via e-mai
 - Add password or fingerprint lock in app.
 - Add Password feature for received note.
 
-# `Happy Coding`
+# `Happy Coding with aminos`
