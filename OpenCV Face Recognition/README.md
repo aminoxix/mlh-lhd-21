@@ -317,7 +317,7 @@ I have defined a function that takes the path, where training subjects' folders 
 
 But a function can't do anything unless we call it on some data that it has to prepare, right? Don't worry, I have got data of two beautiful and famous celebrities. I am sure you will recognize them!
 
-![training-data](visualization/tom-shahrukh.png)
+
 
 Let's call this function on images of these beautiful celebrities to prepare data for training of our Face Recognizer. Below is a simple code to do that.
 
