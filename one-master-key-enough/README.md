@@ -17,7 +17,7 @@ One button to all games.
 
 ![imball_screenshot](https://abagames.github.io/one-button-for-all/imball/screenshot.gif)
 
-### Libraries
+### Libraries used:
 
 [sounds-some-sounds](https://github.com/abagames/sounds-some-sounds) /
 [pixel-art-gen](https://github.com/abagames/pixel-art-gen) /
