@@ -81,6 +81,7 @@ Take a 3x3 window and move it one image, at each move (each local part of an ima
 Now you get why this algorithm has Local Binary Patterns in its name? Because you get a list of local binary patterns. Now you may be wondering, what about the histogram part of the LBPH? Well after you get a list of local binary patterns, you convert each binary pattern into a decimal number (as shown in above image) and then you make a [histogram](https://www.mathsisfun.com/data/histograms.html) of all of those values. A sample histogram looks like this. 
 
 **Sample Histogram**
+
 ![LBP labeling](visualization/histogram.png)
 
 
@@ -91,6 +92,7 @@ Later during recognition, when you will feed a new image to the recognizer for r
 Below is a list of faces and their respective local binary patterns images. You can see that the LBP images are not affected by changes in light conditions.
 
 **LBP Faces**
+
 ![LBP faces](visualization/lbph-faces.jpg)
 **[source](http://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html)**
 
