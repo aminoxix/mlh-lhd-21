@@ -6,13 +6,16 @@
     <img width-="10%" src="./images/medium.png">
   </p>
 </div>
-<h2>Steps</h2>
-<hr>
-<p>1. Download Medium app from playstore.</p> <a href="https://play.google.com/store/apps/details?id=com.medium.reader&hl=en_IN">Download Medium</a>
-<p>2. Open Medium App</p>
-<p>3.Select any premium article </p>
-<div>
-  <p>4.Click on Share button </p>
+
+### Steps
+
+1. Download Medium app from playstore. <a href="https://play.google.com/store/apps/details?id=com.medium.reader&hl=en_IN">Download Medium</a>
+
+2. Open Medium App
+
+3.Select any premium article 
+
+4.Click on Share button
     <img width="40%" src="./images/1.jpeg"/>
     <p>5. Select Medium Article reader</p>
     <img width="40%" src="./images/2.jpeg">
