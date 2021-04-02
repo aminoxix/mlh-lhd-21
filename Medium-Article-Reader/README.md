@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2 align="center">Medium Article Reader</h2>
+  <h2 align="center">MEDIUM ARTICLE READER</h2>
   <p align="center">PREMIUM ARTICLE AVAILABLE FREE</p>
   <p align="center">
     <img width-="10%" src="./images/medium.png">
