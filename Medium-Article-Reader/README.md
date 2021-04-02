@@ -17,9 +17,11 @@
 
 4.Click on Share button
     <img width="40%" src="./images/1.jpeg"/>
-    <p>5. Select Medium Article reader</p>
+    <p>
+5. Select Medium Article reader</p>
     <img width="40%" src="./images/2.jpeg">
-    <p>6. Read</p>
+    <p>
+6. Read</p>
   <img width="40%" src="./images/3.jpeg">
 </div>
 <div align="center">
