@@ -17,14 +17,14 @@
 
 4.Click on Share button
     <img width="40%" src="./images/1.jpeg"/>
-    <p>
-5. Select Medium Article reader</p>
+
+5. Select Medium Article reader
     <img width="40%" src="./images/2.jpeg">
-    <p>
-6. Read</p>
+
+6. Read
   <img width="40%" src="./images/3.jpeg">
+
 </div>
 <div align="center">
-
-#### >>>>>[CLICK TO DOWNLOAD THE APP](https://github.com/JATIN2111999/Medium-Article-Reader/blob/master/app/release/app-release.apk?raw=true)<<<<<
+#### [CLICK TO DOWNLOAD THE APP](https://github.com/JATIN2111999/Medium-Article-Reader/blob/master/app/release/app-release.apk?raw=true)
 </div>
