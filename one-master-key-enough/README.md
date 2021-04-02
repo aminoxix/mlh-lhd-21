@@ -1,21 +1,27 @@
 # ONE MASTER KEY GAME
 One button to all games.
 
-[REFREV](https://abagames.github.io/one-button-for-all/refrev/index.html)
+### Inspiration
+Major League Hacking & Developer Student Community
 
-![refrev_screenshot](https://abagames.github.io/one-button-for-all/refrev/screenshot.gif)
+### What it does
+Inspire to play game on one button only (like, a master key here)
 
-[INVORB](https://abagames.github.io/one-button-for-all/invorb/index.html)
+### How we built it
+TypeScript, JSON & more..
 
-![refrev_screenshot](https://abagames.github.io/one-button-for-all/invorb/screenshot.gif)
+### Challenges we ran into
+To have different games in a single button theme
 
-[ROPES](https://abagames.github.io/one-button-for-all/ropes/index.html)
+### Accomplishments that we're proud of
+Finally, its done!
 
-![ropes_screenshot](https://abagames.github.io/one-button-for-all/ropes/screenshot.gif)
+### What we learned
+Numerous!
 
-[IMBALL](https://abagames.github.io/one-button-for-all/imball/index.html)
+### What's next for Create a One Button Game
+Go ahead to have **!funplay**
 
-![imball_screenshot](https://abagames.github.io/one-button-for-all/imball/screenshot.gif)
 
 ### Libraries used:
 
