@@ -8,8 +8,7 @@
 </div>
 <h2>Steps</h2>
 <hr>
-<p>1. Download Medium app from playstore.</p>
-<a href="https://play.google.com/store/apps/details?id=com.medium.reader&hl=en_IN">Download Medium</a>
+<p>1. Download Medium app from playstore.</p> <a href="https://play.google.com/store/apps/details?id=com.medium.reader&hl=en_IN">Download Medium</a>
 <p>2. Open Medium App</p>
 <p>3.Select any premium article </p>
 <div>
