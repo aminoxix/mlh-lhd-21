@@ -12,3 +12,9 @@ We want to make sure that MLH Local Hack Day events create a safe and welcoming 
 #### WHAT IS LHD : SHARE?
 
 Local Hack Day: Share is a week-long celebration of sharing everything you’ve learned as a hacker. If you’ve been hacking with us all year, we’re excited to have you back. If this is your very first event, we’ve got a ton of beginner-friendly challenges for you to complete that’ll have you shipping your hack like a pro in no time. You’ll have your pick of technical, design, and social challenges to complete - each with an emphasis on sharing your work. The more challenges you conquer, the more points you’ll earn. Tune in each day to check out the leaderboards and share what you’ve built.
+
+#### Why do hackers love MLH powered Hackathons?
+
+MLH is an organization for hackers, by hackers. Whether you're a complete beginner or a returning veteran, you'll feel right at home at MLH powered events.
+
+We believe that hackers should have access to the latest and greatest technology. That’s why we partner up with the world’s leading brands to get their products and devices into the hands of hackers. At MLH powered Hackathons, students can expect to have access to everything from microcontrollers to free web hosting and domains. Don’t have a laptop? Don’t worry! We probably have one you can hack on for the weekend!
