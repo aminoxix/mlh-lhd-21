@@ -1,5 +1,5 @@
 # Linode Tutorial with Kubernetes Engine
-#### Just a basic-intermediate review about what we learn
+### Just a basic-intermediate Overview about what we learn
 
 Linode kubernetes engine which is a container orchestration system that combines Lin ODEs ease-of-use and pricing along with the infrastructure efficiency of kubernetes and with lke you don't have to pay for the master node or any cluster management fees all you have to worry about are the nodes themselves which are running your workloads so let's get started deploying a kubernetes cluster here you're viewing my linear cloud manager's dashboard I'll navigate to the kubernetes section of the manager to begin you can see a listing of all the clusters I've already deployed right here so let's go ahead and create a new cluster by clicking on the add a cluster link I can now provide the settings needed to deploy my cluster
 
