@@ -47,7 +47,9 @@ variable so I can access it with cube
 CTL now go ahead and use cube CTL to
 view my clusters nodes and here you can
 see that their status is displaying
-ready which means I can begin
+ready which means 
+
+I can begin
 interacting with my cluster and define
 the resources needed by my workload that
 concludes today's demo where I showed
@@ -58,3 +60,4 @@ deeper one really great use case is
 hosting a docker registry to store your
 container images.
 
+**THANKS!**
