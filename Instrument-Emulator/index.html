@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Mystic's Soundboard</title>
+    <link rel="shortcut icon" type="image/png" href="./favicon.jpg"/>
+  </head>
+
+  <body>
+
+    <style>
+      /* CSS goes here! */
+      body {
+          background-image: url("https://fpgaw0rld.files.wordpress.com/2016/05/flying-through-space_zy_54cb-r__s0000.jpg?w=640&h=480.jpg");
+      }
+      button {
+      box-shadow: 0 0 0 1em purple,
+      0 1em 0 1em purple,
+      -2.5em 1.5em 0 .5em purple,
+      2.5em 1.5em 0 .5em purple,
+      -3em -3em 0 0 purple,
+      3em -3em 0 0 purple,
+      -2em -2em 0 0 purple,
+      2em -2em 0 0 purple,
+      -3em -1em 0 0 purple,
+      -2em -1em 0 0 purple,
+      2em -1em 0 0 purple,
+      3em -1em 0 0 purple,
+      -4em 0 0 0 purple,
+      -3em 0 0 0 purple,
+      3em 0 0 0 purple,
+      4em 0 0 0 purple,
+      -5em 1em 0 0 purple,
+      -4em 1em 0 0 purple,
+      4em 1em 0 0 purple,
+      5em 1em 0 0 purple,
+      -5em 2em 0 0 purple,
+      5em 2em 0 0 purple,
+      -5em 3em 0 0 purple,
+      -3em 3em 0 0 purple,
+      3em 3em 0 0 purple,
+      5em 3em 0 0 purple,
+      -2em 4em 0 0 purple,
+      -1em 4em 0 0 purple,
+      1em 4em 0 0 purple,
+      2em 4em 0 0 purple;
+      background: purple;
+      width: 1em;
+      height: 1em;
+      overflow: hidden;
+      margin: 50px 0 70px 65px;
+    }
+
+    }
+
+      }
+      .hb{
+        color: #eb4d4b; 
+        font-size: 16pt; 
+      }
+    </style>
+
+    <!-- Audio elements go here! -->
+    <audio id="harp">
+      <source src="./sounds/harp.wav" type="audio/wav">
+      Hi, your internet browser does not support audio files.
+    </audio>
+    <audio id="bass-drum">
+      <source src="./sounds/bass-drum.wav" type="audio/wav">
+      Hi, your internet browser does not support audio files.
+    </audio>
+    <audio id="tap-dancing">
+      <source src="./sounds/tap-dancing.wav" type="audio/wav">
+    </audio>
+    <audio id ="bugle-first-call">
+      <source src="./sounds/bugle-first-call.wav" type="audio/wav">
+    </audio>
+    <audio id="chinese-gong">
+      <source src="./sounds/chinese-gong.wav" type="audio/wav">
+    </audio>
+    <audio id="drumroll">
+      <source src="./sounds/drumroll.wav" type="audio/wav">
+    </audio>
+    <audio id="female-opera">
+      <source src="./sounds/female-opera.wav" type="audio/wav">
+    </audio> 
+    <audio id="military-drum">
+      <source src="./sounds/military-drum.wav" type="audio/wav">
+    </audio>
+    <audio id="chinese-gong">
+      <source src="./sounds/chinese-gong.wav" type="audio/wav">
+    </audio> 
+    <audio id="congas">
+      <source src="./sounds/congas.wav" type="audio/wav">
+    </audio>
+
+
+    <h1 style="color:white;">AMINOs Up!</h1>
+
+    <!-- Create the soundboard buttons -->
+    <button style="margin:65px;" onclick="toggleAudio('harp', 0)">harp</button>
+
+     <button style="margin:65px;" onclick="toggleAudio('bass-drum', 0)">bass-drum
+    </button>
+    <button style="margin:65px;" onclick="toggleAudio('tap-dancing', 0)">tap-dancing </button>
+    <button style="margin:65px;" onclick="toggleAudio('bugle-first-call', 0)">bugle-first-call</button>
+    <button style="margin:65px;" onclick="toggleAudio('chinese-gong', 0)">chinese-gong</button>
+    <button style="margin:65px;" onclick="toggleAudio('congas', 0)">congas</button>
+    <button style="margin:65px;" onclick="toggleAudio('drumroll', 0)">drumroll</button>
+    <button style="margin:65px;" onclick="toggleAudio('female-opera', 0)">opera</button>
+    <button style="margin:65px;" onclick="toggleAudio('military-drum', 0)">military-drum</button>
+
+
+    <script>
+      // Create the playing boolean list
+
+      function toggleAudio(sound, number) {
+        var audio = document.getElementById
+        (sound);
+        audio.play();
+        console.log("Audio toggled...")
+      }
+    </script>
+
+  </body>
+</html>
