@@ -6,12 +6,16 @@ Linode kubernetes engine which is a container orchestration system that combines
 first I'll assign it a name let's say my - lke - cluster I'll select a cluster region let's go with Dallas Texas the kubernetes version I'll choose is 1.17 now I can start adding node pools to my cluster and a node pool is a group of
 the nodes within a cluster that all have
 the same compute resources so for
-example I can add nodes to the pool from
+example
+
+I can add nodes to the pool from
 our standard plan dedicated CPU and high
 memory plans I'll go ahead and add 3 -
 gigabyte the notes by incrementing the
 value here and clicking on the Add
-button here on the right side I can view
+button here on the right side 
+
+I can view
 a summary of my clusters node pool along
 with the clusters total cost let's go
 ahead and deploy our kubernetes cluster
@@ -24,7 +28,9 @@ links to either download or view its
 cube config file I can also add tags to
 the cluster for organizational purposes
 and down here in the node
-section I can view the status of all my
+section 
+
+I can view the status of all my
 clusters notes to start interacting with
 my kubernetes cluster using cube CTL the
 kubernetes command line tool I'll grab
