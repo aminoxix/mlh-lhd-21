@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Linode",
+    "slug": "linode-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/linode.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/linode.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "pw.sivert.linodeapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
