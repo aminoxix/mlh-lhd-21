@@ -21,4 +21,4 @@
 
 ![HackerRank](https://user-images.githubusercontent.com/75872316/113808417-974f5200-9783-11eb-8cdb-d6a835328ba6.JPG)
 
-**aminos** - #16 among universal hackers and 1st in guild - Developer Student Community
+- **aminos** - #16 among universal hackers and 1st in guild - Developer Student Community
