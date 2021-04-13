@@ -1,7 +1,7 @@
 # MLH LHD 21
 
 <p align="center">
-    <img width-="48%" src="https://user-images.githubusercontent.com/75872316/114308982-4e8cf580-9b03-11eb-9e60-669a755b0523.png">
+    <img width="40%" src="https://user-images.githubusercontent.com/75872316/114308982-4e8cf580-9b03-11eb-9e60-669a755b0523.png">
   </p>
 
 
