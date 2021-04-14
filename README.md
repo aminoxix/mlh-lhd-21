@@ -30,3 +30,6 @@
 - MLH is an organization for hackers, by hackers. Whether you're a complete beginner or a returning veteran, you'll feel right at home at MLH powered events.
 
 - We believe that hackers should have access to the latest and greatest technology. That’s why we partner up with the world’s leading brands to get their products and devices into the hands of hackers. At MLH powered Hackathons, students can expect to have access to everything from microcontrollers to free web hosting and domains. Don’t have a laptop? Don’t worry! We probably have one you can hack on for the weekend!
+
+A Lots of Benefit we got in Hackathon:
+Some of the starter packs, are <a href="https://hack.mlh.io/learn/">here</a>
