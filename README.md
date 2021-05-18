@@ -1,4 +1,6 @@
-# MLH LHD 21
+<div align="center">
+  <h1 align="center"> MLH LHD 21 </h1>
+</div>
 
 <p align="center">
     <img width="40%" src="https://user-images.githubusercontent.com/75872316/114308982-4e8cf580-9b03-11eb-9e60-669a755b0523.png">
