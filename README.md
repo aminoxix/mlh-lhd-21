@@ -2,7 +2,7 @@
 
 <p align="center">
     <img width="40%" src="https://user-images.githubusercontent.com/75872316/114308982-4e8cf580-9b03-11eb-9e60-669a755b0523.png">
-  </p>
+</p>
 
 
 - Major League Hacking (MLH) is the official student hackathon league. Each year, we power over 200 weekend-long invention competitions that inspire innovation, cultivate communities and teach computer science skills to more than 65,000 students around the world. MLH is an engaged and passionate maker community, consisting of the next generation of technology leaders and entrepreneurs.
