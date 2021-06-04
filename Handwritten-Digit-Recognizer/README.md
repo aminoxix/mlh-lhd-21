@@ -1,2 +1,2 @@
-# Project on AI
+# Project on ML/AI
 Handwritten Digit Recognizer
